@@ -10,8 +10,6 @@ namespace Testproject123
             int result = i + j;
             int expected = 43;
                 Assert.Equal(expected, result);    
- 
-
         }
     }
 }
